@@ -40,7 +40,7 @@
   - Full Name       :   Naresh Gaviri
   - Father Name		:	Pakir Gaviri
   - Date of Birth		:	27-02-2000
-  - Sex			:    	male
+  - Gender			:    	male
   - Languages Known	:	English, Telugu
   - Permanent Address	:	Door No:3-43/2,Kothuru Jatlapalem, Pentapadu Mandal, West Godavari,Andhra Pradesh,Pincode-534166.
 ## DECLARATION:
