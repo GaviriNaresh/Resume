@@ -11,7 +11,7 @@
 
  |Qualification|Institution/Place|University/Board|Year of passing|Percentage of Marks/CGPA|
  |---|------|-|-------|-|
- |B.Tech(C.S.E)|Sasi Institute of Technology and Engineering|JNTUK University|2021|7.00
+ |B.Tech(C.S.E)|Sasi Institute of Technology and Engineering|JNTUK University|2021|7.20
  |Intermediate|Sasi Junior College,Tadepalligudem|Board of Intermediate Education|2017|88.1%|
  |10th Class|Sasi E.M school Tadepalligudem,Andhra Pradesh|S.S.C|2015|9.0|
 
